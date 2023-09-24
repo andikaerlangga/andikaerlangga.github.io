@@ -1,7 +1,7 @@
 # Deskripsi
 
 
-Dari Hasil Project Capstone yang kami kerjakan, kami membuat 4 Action di Watson asistantnya, dimana 1 actions terdiri dari integrasi dari Watson x dan Watson assistant sehingga jawaban dari Chatbotnya akan mengambil dari model atau data yang sudah ditraining di Watson x Prompt labnyanya, kemudian 3 Action lainnya hanya menggunakan skenario yang kami buat di Watson Assitant sehingga jawaban dari chatbotnya terbatas dan hanya bisa menanyakan pertanyaan yang sudah di masukan ke skenarionya saja. 
+Dari Hasil Project Capstone yang kami kerjakan, kami membuat 4 Action di Watson asistantnya, dimana 1 actions terdiri dari integrasi dari Watson x dan Watson assistant sehingga jawaban dari Chatbotnya akan mengambil dari model atau data yang sudah ditraining di Watson x Prompt labnya, kemudian 3 Action lainnya hanya menggunakan skenario yang kami buat di Watson Assitant sehingga jawaban dari chatbotnya terbatas dan hanya bisa menanyakan pertanyaan yang sudah di masukan ke skenarionya saja. 
 
 ![WhatsApp Image 2023-09-24 at 13 06 26](https://github.com/andikaerlangga/andikaerlangga.github.io/assets/145178112/31ff60fc-c0ac-4dc8-9cca-296521fa0e95)
 
