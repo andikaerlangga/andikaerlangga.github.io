@@ -42,6 +42,7 @@ Pada Kata Kunci ini, kami buat berdasarkan 6 steps yang membuat skenario tentang
 ![WhatsApp Image 2023-09-24 at 13 10 16](https://github.com/andikaerlangga/andikaerlangga.github.io/assets/145178112/56b9f1bf-9a7b-4d8b-b20d-b4bf901854a1)
 
 7.	“Thank You”
+
 Pada Kata Kunci ini, kami buat hnaya menggunakan 1 step, alias hanya digunakan untuk menutup semua percakapan di chat bot ini.
 
 
