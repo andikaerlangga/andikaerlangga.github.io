@@ -15,7 +15,6 @@ Pada Kata Kunci ini, kami buat berdasarkan 5 steps yang pengerjaannya bisa dilih
 Pada Kata Kunci ini, kami buat berdasarkan 6 steps yang pengerjaannya bisa dilihat di dokumentasi diatas. Pada kata kunci ini, kami hanya memakai Watson assistant dengan kata lain, kami membuat skenario di Watson assistant sehingga chatbot ini hanya bisa menjawab pertanyaan yang sudah ada di skenario yang kami buat.
 
 4.	“Thank You”
-
 Pada Kata Kunci ini, kami buat hnaya menggunakan 1 step, alias hanya digunakan untuk menutup semua percakapan di chat bot ini.
 
 
